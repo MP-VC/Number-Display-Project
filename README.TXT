@@ -46,3 +46,15 @@ You would be able set the limit
 
 17.
 ((a==true)&&(b==false))||((a==false)&&(b==true))
+
+18.
+It assumes the max limit would be two digits. It won't add padding if the limit is bigger.
+It is a 3 digit string.
+
+19.
+The bottom one becomes a string
+
+20.
+12cat
+cat39
+This does surprise me,I belive it is this way since strings do not allow math operations.
